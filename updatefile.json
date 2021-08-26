@@ -7,7 +7,6 @@
 "update_title":"Update new version",  
 "update_content":"-Fixed Movies Loading Issue \n-Added Year Filter Icon \n-Added TV Calendar \n-Added new Subtitles Provider. \n-Many Bugs Fixed. \n-Added new Provider.", 
 "update_build":"5",
-"update_build_code":"5",
 "update_version":"1.4",  
 "enable_force_player":false,
 "update_link":"https://github.com/daveparesh15/Flixoid/releases/download/v1.4/Flixoid_1_4.apk",  
