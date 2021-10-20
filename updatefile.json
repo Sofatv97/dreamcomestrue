@@ -18,7 +18,7 @@
 "show_indian_links":false,
 "show_bollywood":false,
 "show_play_button":true,
-"show_banner":false,
+"show_banner":true,
 "iron_key":"faddd7a1",
 "movies_titles":["Kaagaz", "Radhe: Your Most Wanted Bhai", "Kamathipura", "Ghoomketu", "Yaara", "Bell Bottom", "Radhe"],
 "pkg_uninstall_content":"Please uninstall old version",
