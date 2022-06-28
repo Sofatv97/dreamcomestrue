@@ -4,7 +4,7 @@
 "link_not_audio":"https://archive.org/download/org.videolan.vlc_3.1.7-13010707_minapi17arm64-v8anodpi_apkmirror.com/vlc317.apk",  
 "update_isforce":false,  
 "update_isapk":true,
-"showapplovin_banner":true,
+"showapplovin_banner":false,
 "update_title":"Update New Version",  
 "update_content":"If you have problems updating the app, Download it from this link:\n https://tinyurl.com/yckhps7v \n\n-Added New Providers. \n-Some Minors Bugs Fixed.", 
 "update_build":"11",
