@@ -12,7 +12,7 @@
 "update_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v1.9.1/Flixoid_1_9_1.apk",  
 "update_link_android4":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v1.9.1/Flixoid_1_9_1.apk",
 "pkg_uninstall":"",    
-"enable_interstitial":false,
+"enable_interstitial":true,
 "show_interstitial_player":false,
 "show_links":true,
 "show_indian_links":true,
