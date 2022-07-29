@@ -20,7 +20,7 @@
 "show_play_button":true,
 "show_banner_applovin":false,
 "show_banner":true,
-"show_divinet":false,
+"show_divinet":true,
 "iron_key":"faddd7a1",
 "movies_titles":["Kaagaz", "Radhe: Your Most Wanted Bhai", "Kamathipura", "Ghoomketu", "Yaara", "Bell Bottom", "Radhe", "RRR", "K.G.F: Chapter 1", "K.G.F: Chapter 2", "Gomorrah"],
 "pkg_uninstall_content":"Please uninstall old version",
