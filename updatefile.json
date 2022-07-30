@@ -20,7 +20,7 @@
 "show_play_button":true,
 "show_banner_applovin":false,
 "show_message":false,
-"message":"Check message",
+"important_message":"Check message",
 "show_banner":true,
 "show_divinet":true,
 "iron_key":"faddd7a1",
