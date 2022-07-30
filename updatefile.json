@@ -19,7 +19,7 @@
 "show_bollywood":false,
 "show_play_button":true,
 "show_banner_applovin":false,
-"show_message":false,
+"show_message":true,
 "important_message":"Check message",
 "show_banner":true,
 "show_divinet":true,
