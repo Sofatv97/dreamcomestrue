@@ -14,6 +14,7 @@
 "pkg_uninstall":"",    
 "enable_interstitial":false,
 "show_interstitial_player":false,
+"player_activity_interstitial":true,
 "show_links":true,
 "show_indian_links":false,
 "show_indian_links_tv":false,
