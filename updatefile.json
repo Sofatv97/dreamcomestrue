@@ -11,6 +11,7 @@
 "enable_force_player":false,
 "update_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v1.9.6/Flixoid_1_9_6.apk",  
 "update_link_android4":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v1.9.6/Flixoid_1_9_6.apk",
+"sbplay":{"domain":"https://sbplay2.xyz","referer":"https://sbplay2.xyz/","header":"watchsb: sbstream","getlink":""},
 "pkg_uninstall":"",    
 "enable_interstitial":true,
 "show_interstitial_player":false,
