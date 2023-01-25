@@ -26,7 +26,7 @@
 "show_message":false,
 "important_message":"If you have problems updating the app, Download it from this link:\n https://tinyurl.com/5bja7j5u \n\n-Added New Providers. \n-Some Minors Bugs Fixed.",
 "show_banner":true,
-"show_divinet":false,
+"show_divinet":true,
 "iron_key":"faddd7a1",
 "movies_titles":["Kaagaz", "Radhe: Your Most Wanted Bhai", "Kamathipura", "Ghoomketu", "Yaara", "Bell Bottom", "Radhe", "K.G.F: Chapter 1", "K.G.F: Chapter 2", "Gomorrah", "Britannia"],
 "pkg_uninstall_content":"Please Uninstall Old Version",
