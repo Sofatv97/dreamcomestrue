@@ -10,7 +10,7 @@
 "update_version":"1.9.8",  
 "enable_force_player":false,
 "update_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v1.9.8/Flixoid_1_9_8.apk",  
-"update_link_android4":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v1.9.9/Flixoid_1_9_8.apk",
+"update_link_android4":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v1.9.8/Flixoid_1_9_8.apk",
 "sbplay":{"domain":"https://sbplay2.xyz","referer":"https://sbplay2.xyz/","header":"watchsb: sbstream","getlink":""},
 "pkg_uninstall":"com.getlink",    
 "enable_interstitial":true,
