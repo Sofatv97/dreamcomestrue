@@ -31,7 +31,7 @@
 "movies_titles":["Kaagaz", "Radhe: Your Most Wanted Bhai", "Kamathipura", "Ghoomketu", "Yaara", "Bell Bottom", "Radhe", "K.G.F: Chapter 1", "K.G.F: Chapter 2", "Gomorrah", "Britannia"],
 "pkg_uninstall_content":"Please Uninstall Old Version",
 "uninstall_force":false,
-"tmdb_key":"b0656a300c2b7a947569c0025392d739",
+"tmdb_key":"009e8284b6f97c638e0face5f5400c1b",
 "enable_install_player":true,
 "title_player":"Sofa Player",
 "description_player":"Best player to work with Flixoid.",
