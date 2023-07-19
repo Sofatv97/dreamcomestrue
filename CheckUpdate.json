@@ -32,7 +32,7 @@
     "pkg_uninstall_content":"Please Uninstall Old Version",
     "uninstall_force":false,
     "tmdb_key":"009e8284b6f97c638e0face5f5400c1b",
-    "enable_install_player":false,
+    "enable_install_player":true,
     "title_player":"Sofa Player",
     "description_player":"Best player to work with Flixoid.",
     "link_download_player":"https://github.com/daveparesh15/Sofa-TV/raw/master/SofaPlayer_2_5.apk",
