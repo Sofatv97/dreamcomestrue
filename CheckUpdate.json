@@ -31,7 +31,7 @@
     "show_banner":true,
     "show_divinet":true,
     "iron_key":"faddd7a1",
-    "movies_titles":["Kaagaz", "Radhe: Your Most Wanted Bhai", "Kamathipura", "Ghoomketu", "Yaara", "Bell Bottom", "Radhe", "K.G.F: Chapter 1", "K.G.F: Chapter 2", "Gomorrah", "Britannia"],
+    "movies_titles":["Kaagaz", "Radhe: Your Most Wanted Bhai", "Kamathipura", "Ghoomketu", "Yaara", "Bell Bottom", "Radhe", "K.G.F: Chapter 1", "K.G.F: Chapter 2", "Gomorrah", "Britannia", "The Flash"],
     "pkg_uninstall_content":"Please Uninstall Old Version",
     "uninstall_force":false,
     "tmdb_key":"009e8284b6f97c638e0face5f5400c1b",
