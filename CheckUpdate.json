@@ -23,7 +23,7 @@
     "show_links":true,
     "show_indian_links":true,
     "show_indian_links_tv":true,
-    "show_bollywood":false,
+    "show_bollywood":true,
     "show_play_button":true,
     "show_banner_applovin":false,
     "startapp_id":"207309230",
