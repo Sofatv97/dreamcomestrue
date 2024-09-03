@@ -27,7 +27,7 @@
     "show_play_button":true,
     "show_banner_applovin":false,
     "startapp_id":"207309230",
-    "checkhbplayer":false,
+    "checkhbplayer":true,
     "hbPackageName":"com.nx.video.player",
     "hbplayerLink":"https://github.com/Sofatv97/dreamcomestrue/raw/main/HB_Player_AF_1.1.2_MultiPatch_Arm7_Dlpure.com.apk",
     "show_message":false,
