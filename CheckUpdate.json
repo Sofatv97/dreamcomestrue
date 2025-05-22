@@ -11,7 +11,7 @@
     "enable_force_player":false,
     "update_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v2.0.8/app-armeabi-v7a-debug.apk",
     "arm64_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v2.0.8/app-arm64-v8a-debug.apk",
-    "x86_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v2.0.8/app-x86-debug.apk",
+    "x86_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v2.0.8/app-armeabi-v7a-debug.apk",
     "armeabi_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v2.0.8/app-armeabi-v7a-debug.apk",
     "x86_64_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v2.0.8/app-x86_64-debug.apk",
     "update_link_android4":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v2.0.8/app-armeabi-v7a-debug.apk",
