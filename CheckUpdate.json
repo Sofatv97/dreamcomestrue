@@ -16,7 +16,7 @@
     "x86_64_link":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v3.0/flixoid-x86_64.apk",
     "update_link_android4":"https://github.com/Sofatv97/dreamcomestrue/releases/download/v3.0/flixoid-armeabi-v7a.apk",
     "sbplay":{"domain":"https://sbplay2.xyz","referer":"https://sbplay2.xyz/","header":"watchsb: sbstream","getlink":""},
-    "pkg_uninstall":"com.findlink",    
+    "pkg_uninstall":"com.getlink",    
     "enable_interstitial":true,
     "show_interstitial_player":false,
     "player_activity_interstitial":true,
